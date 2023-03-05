@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  font-size: 18px;
+  background-color: bisque;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
+img {
+  width: 50%;
+}
+
+a {
+  color: blueviolet;
+}
+
+.container {
+  display: flex;
+  justify-content: space-evenly;
+}
